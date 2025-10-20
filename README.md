@@ -1,6 +1,6 @@
 # 👨‍💻 Evan Silva
 
-**`Desenvolvedor FullStack em Formação`**
+**`Desenvolvedor back-end em Formação`**
 
 Me chamo Evanildo Silva, tenho 30 anos e sou natural de Belém do Pará. Atualmente, conclui Análise e Desenvolvimento de Sistemas na universidade Estácio. Apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram, com o perfil chamado "[dev_evanjs](https://www.instagram.com/dev_evanjs/)", onde publico minhas aplicações de estudo.
 
